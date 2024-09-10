@@ -8,8 +8,7 @@
 
 ## Project Overview
 
-This project is a full-stack web application that provides real-time monitoring and analysis of electrical grid stability. It utilizes machine learning to predict potential failures and includes a notification system for alerting stakeholders about critical issues.
-
+basically a full-stack web application that provides real-time monitoring and analysis of electrical grid data from kaggle. i'm using machine learning to predict potential failures and i'm building  a notification system for alerting, which will be helpful for steakholders 
 ### Key Features
 
 - Real-time dashboard visualizing grid stability metrics
