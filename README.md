@@ -1,9 +1,6 @@
 
 # Brillant Labs Demo  
 
-# And Another One
-
-
 # Electrical Grid Stability Dashboard
 
 ## Project Overview
@@ -45,11 +42,10 @@ basically a full-stack web application that provides real-time monitoring and an
 - Prometheus & Grafana: Application monitoring
 - ELK Stack: Centralized logging
 
-## Getting Started
+
 
 ### Prerequisites
 - Docker and Docker Compose
 - Node.js 14+
 - Python 3.8+
 
->>>>>>> 3333a5c (fc)
